@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/MainClass.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/entity/Book.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/entity/BookDataSet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/entity/ShoppingCart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/entity/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/entity/UserDataSet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/exception/CartyException.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/service/BookDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/service/BookDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/service/CartyDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/service/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/service/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/service/UserDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/service/UserDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/windows/AddBooks.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/windows/CheckOut.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/windows/MainWindow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/windows/QueryBooksByCategory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/windows/QueryBooksByName.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/windows/RemoveBooks.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/windows/ShowBooks.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/windows/ShowShoppingCart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/windows/SignIn.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nuc/ss/shopping/windows/SignUp.java" charset="GBK" />
+  </component>
+</project>
